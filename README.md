@@ -21,4 +21,4 @@ A modern and responsive personal portfolio website showcasing my **skills, proje
 I am a **Computer Engineering developer** passionate about software development, web technologies, mobile applications, AI/ML, and building real-world projects.
 
 🌐 **Portfolio:** https://pravinkatkade04.github.io/Portfolio/
-💻 **GitHub:** Add your GitHub profile link
+💻 **GitHub:** https://github.com/pravinkatkade04
